@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do RafaelGonDev 🚀
+## Bem-vindo(a) ao perfil RafaelGonDev 🚀
 
  <div>
    <a href="https://github.com/RafaelGonDev">
